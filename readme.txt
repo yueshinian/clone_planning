@@ -1,0 +1,2 @@
+ Kinodynamic Comfort Trajectory Planning for Car-Like Robots
+ 内点法，Nicola Bellomo, Bertrand Lods, Roberto Revelli and Luca Ridolfi, Generalized collocation methods: solutions to nonlinear problems, Springer Science & Business Media, 2007.
